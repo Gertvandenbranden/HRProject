@@ -1,0 +1,5 @@
+#Application.properties
+#Wed Nov 22 13:44:06 CET 2017
+DirectorRemuneration=4
+ManagerRemuneration=3
+EmployeeRemuneration=2
